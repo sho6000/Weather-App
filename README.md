@@ -45,7 +45,7 @@ The Weather App is a Python program that allows users to retrieve current weathe
 
 ## Screenshots
 
-![Weather App Screenshot](screenshots/screenshot.png)
+![Weather App Screenshot](https://github.com/sho6000/Weather-App/blob/master/screenshots/screenshot.png)
 
 ## Credits
 
